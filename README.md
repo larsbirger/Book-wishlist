@@ -5,6 +5,7 @@
 | Tables containit my book wishlists                                                    |
 | ------------------------------------------------------------------------------------- |
 | [Programning](/tables/programming.md)                                                 |
+| [Language](/tables/languages.md)                                                      |
 
 ## Requests
 
